@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="buttonAdd" type="id" />
+    <item name="buttonView" type="id" />
+    <item name="editTextAge" type="id" />
+    <item name="switch1" type="id" />
+</resources>
